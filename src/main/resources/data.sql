@@ -1,0 +1,10 @@
+INSERT INTO books (id, name, author) VALUES (1, 'Book 1', 'Author 1');
+INSERT INTO books (id, name, author) VALUES (2, 'Book 2', 'Author 2');
+INSERT INTO books (id, name, author) VALUES (3, 'Book 3', 'Author 3');
+INSERT INTO books (id, name, author) VALUES (4, 'Book 4', 'Author 4');
+INSERT INTO books (id, name, author) VALUES (5, 'Book 5', 'Author 5');
+INSERT INTO books (id, name, author) VALUES (6, 'Book 6', 'Author 6');
+INSERT INTO books (id, name, author) VALUES (7, 'Book 7', 'Author 7');
+INSERT INTO books (id, name, author) VALUES (8, 'Book 8', 'Author 8');
+INSERT INTO books (id, name, author) VALUES (9, 'Book 9', 'Author 9');
+INSERT INTO books (id, name, author) VALUES (10, 'Book 10', 'Author 10');
